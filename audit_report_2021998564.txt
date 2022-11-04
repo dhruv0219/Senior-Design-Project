@@ -1,0 +1,19 @@
+Audit Report
+
+Name: Ted Lasso
+Plan: Master
+
+Major: Computer ScienceTrack: Data Science
+
+Core GPA: 3.777
+Elective GPA: 3.11
+Combined GPA: 3.443
+
+Core Courses: CS 6375, CS 6313, CS 6350
+Elective Courses: CS 5333, CS 6360, CS 6359
+
+Leveling Courses and Pre-requisites from Admission Letter: 
+
+Outstanding Requirements: 
+
+Core Courses Remaining: CS 6375, CS6313, CS6350
